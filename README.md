@@ -8,4 +8,4 @@ Template website profil perusahaan digital dengan tampilan modern dan profesiona
 -	Dibangun dengan pengkodean yang rapi sehingga mudah dipahami.
 - Tampilan yang mudah diubah dan disesuaikan.
 
-![pustakakoding-template-website-company-profile-digital-creative](https://user-images.githubusercontent.com/88012593/207638412-bbfa07d1-7bc2-4f0a-8b3e-4b439adc4293.png)
+![Tampilan Aplikasi](https://github.com/pustakakoding/template-website-company-profile-digital-creative/blob/main/Digital-Creative-Light.png)
